@@ -92,25 +92,10 @@ var announcements =
 
 // Keywords of blocked songs
 var blockedSongs = [
-"Rick Roll",
-"GANGNAM",
-"The Fox",
-"The Fox [Official music video HD]",
-"10 hour",
-"Trololo",
-"#SELFIE (Official Music Video)",
-"Heyayayay",
-"Rap God"
 ];
 
 // Keywords of blocked artist.
 var blockedArtists = [
-"Rick Astley",
-"Miley Cyrus",
-"Eduard Khil",
-"Justin Bieber",
-"Lil wayne",
-"Rebecca Black"
 ];
 
 // Filter Keywords
@@ -122,26 +107,26 @@ Funbot.filters.commandWords = ['.command', '.commands', ".linkin", ".say", ".tes
 Funbot.misc.tacos = ["blunt", "kush", "Chemo", "Locoweed", "marijuana", "Ganja"];
 Funbot.misc.cookie = ["a chocolate chip cookie", "a sugar cookie", "an oatmeal raisin cookie", "a 'special' brownie", "an animal cracker", "a scooby snack", "a blueberry muffin", "a cupcake", "Strawberry Sunday", "Chocolate Chip Icecream Cone", "Cookie Dough Triple Scoop ", "Mint Chocolate Chip Icecream Cone", "Chocolate Icecream Sunday", "Banana Split with Whipped Cream", "Vanilla Icecream Cone with Sprinkles ", "Bubblegum Flavored Popcicle"];
 Funbot.misc.ball = [
-" [:8ball:] It is certain",
-" [:8ball:] It is decidedly so",
-" [:8ball:] Without a doubt",
-" [:8ball:] Yes definitely",
-" [:8ball:] You may rely on it",
-" [:8ball:] As I see it yes",
-" [:8ball:] Most likely",
-" [:8ball:] Outlook good",
-" [:8ball:] Yes",
-" [:8ball:] Signs point to yes :trollface:",
-" [:8ball:] Reply hazy try again",
-" [:8ball:] Ask again later",
-" [:8ball:] Better not tell you now",
-" [:8ball:] Cannot predict now",
-" [:8ball:] Concentrate and ask again",
-" [:8ball:] Don't count on it",
-" [:8ball:] My reply is no",
-" [:8ball:] My sources say no",
-" [:8ball:] Outlook not so good",
-" [:8ball:] Very doubtful"];
+" [:FireBot:] It is certain",
+" [:FireBot:] It is decidedly so",
+" [:FireBot:] Without a doubt",
+" [:FireBot:] Yes definitely",
+" [:FireBot:] You may rely on it",
+" [:FireBot:] As I see it yes",
+" [:FireBot:] Most likely",
+" [:FireBot:] Outlook good",
+" [:FireBot:] Yes",
+" [:FireBot:] Signs point to yes :trollface:",
+" [:FireBot:] Reply hazy try again",
+" [:FireBot:] Ask again later",
+" [:FireBot:] Better not tell you now",
+" [:FireBot:] Cannot predict now",
+" [:FireBot:] Concentrate and ask again",
+" [:FireBot:] Don't count on it",
+" [:FireBot:] My reply is no",
+" [:FireBot:] My sources say no",
+" [:FireBot:] Outlook not so good",
+" [:FireBot:] Very doubtful"];
 
 Funbot.misc.ht = ["My magic coins says: Tails", "My magic coin says: Heads"];
 
